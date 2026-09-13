@@ -1,0 +1,17 @@
+D:\BTLT\BTLT3\Cau2\Cau2\bin\Debug\net10.0-windows\Cau2.exe
+D:\BTLT\BTLT3\Cau2\Cau2\bin\Debug\net10.0-windows\Cau2.deps.json
+D:\BTLT\BTLT3\Cau2\Cau2\bin\Debug\net10.0-windows\Cau2.runtimeconfig.json
+D:\BTLT\BTLT3\Cau2\Cau2\bin\Debug\net10.0-windows\Cau2.dll
+D:\BTLT\BTLT3\Cau2\Cau2\bin\Debug\net10.0-windows\Cau2.pdb
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\Cau2.Form1.resources
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.GenerateResource.cache
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\Cau2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\Cau2.AssemblyInfoInputs.cache
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\Cau2.AssemblyInfo.cs
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.CoreCompileInputs.cache
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\Cau2.dll
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\refint\Cau2.dll
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\Cau2.pdb
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\Cau2.genruntimeconfig.cache
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\ref\Cau2.dll
+D:\BTLT\BTLT3\Cau2\Cau2\obj\Debug\net10.0-windows\Cau2.csproj.Up2Date

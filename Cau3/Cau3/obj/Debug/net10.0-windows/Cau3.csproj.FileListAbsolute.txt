@@ -1,0 +1,17 @@
+D:\BTLT\BTLT3\Cau3\Cau3\bin\Debug\net10.0-windows\Cau3.exe
+D:\BTLT\BTLT3\Cau3\Cau3\bin\Debug\net10.0-windows\Cau3.deps.json
+D:\BTLT\BTLT3\Cau3\Cau3\bin\Debug\net10.0-windows\Cau3.runtimeconfig.json
+D:\BTLT\BTLT3\Cau3\Cau3\bin\Debug\net10.0-windows\Cau3.dll
+D:\BTLT\BTLT3\Cau3\Cau3\bin\Debug\net10.0-windows\Cau3.pdb
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\Cau3.Form1.resources
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\Cau3.csproj.GenerateResource.cache
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\Cau3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\Cau3.AssemblyInfoInputs.cache
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\Cau3.AssemblyInfo.cs
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\Cau3.csproj.CoreCompileInputs.cache
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\Cau3.dll
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\refint\Cau3.dll
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\Cau3.pdb
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\Cau3.genruntimeconfig.cache
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\ref\Cau3.dll
+D:\BTLT\BTLT3\Cau3\Cau3\obj\Debug\net10.0-windows\Cau3.csproj.Up2Date

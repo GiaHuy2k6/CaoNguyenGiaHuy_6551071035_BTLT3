@@ -1,0 +1,306 @@
+﻿namespace Cau6
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            groupBox1 = new GroupBox();
+            label1 = new Label();
+            txtName = new TextBox();
+            label2 = new Label();
+            txtMessage = new TextBox();
+            groupBox2 = new GroupBox();
+            radioButton1 = new RadioButton();
+            radioButton2 = new RadioButton();
+            radioButton3 = new RadioButton();
+            radioButton4 = new RadioButton();
+            chkVisible = new CheckBox();
+            groupBox3 = new GroupBox();
+            btnDisplay = new Button();
+            btnClear = new Button();
+            btnExit = new Button();
+            picBig = new PictureBox();
+            picSmall = new PictureBox();
+            lblMessage = new Label();
+            toolTip1 = new ToolTip();
+            groupBox1.SuspendLayout();
+            groupBox2.SuspendLayout();
+            SuspendLayout();
+            // 
+            // groupBox1
+            // 
+            groupBox1.Controls.Add(txtMessage);
+            groupBox1.Controls.Add(label2);
+            groupBox1.Controls.Add(txtName);
+            groupBox1.Controls.Add(label1);
+            groupBox1.Location = new Point(72, 61);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(613, 177);
+            groupBox1.TabIndex = 0;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Input Name & Message";
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(48, 48);
+            label1.Name = "label1";
+            label1.Size = new Size(49, 20);
+            label1.TabIndex = 0;
+            label1.Text = "Name";
+            // 
+            // txtName
+            // 
+            txtName.Location = new Point(119, 45);
+            txtName.Name = "txtName";
+            txtName.Size = new Size(125, 27);
+            txtName.TabIndex = 1;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(48, 102);
+            label2.Name = "label2";
+            label2.Size = new Size(67, 20);
+            label2.TabIndex = 2;
+            label2.Text = "Massage";
+            // 
+            // txtMessage
+            // 
+            txtMessage.Location = new Point(121, 102);
+            txtMessage.Name = "txtMessage";
+            txtMessage.Size = new Size(125, 27);
+            txtMessage.TabIndex = 3;
+            // 
+            // groupBox2
+            // 
+            groupBox2.Controls.Add(radioButton4);
+            groupBox2.Controls.Add(radioButton3);
+            groupBox2.Controls.Add(radioButton2);
+            groupBox2.Controls.Add(radioButton1);
+            groupBox2.Location = new Point(72, 244);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Size = new Size(142, 173);
+            groupBox2.TabIndex = 1;
+            groupBox2.TabStop = false;
+            groupBox2.Text = "Color";
+            // 
+            // radioButton1
+            // 
+            radioButton1.AutoSize = true;
+            radioButton1.Checked = true;
+            radioButton1.ForeColor = Color.Red;
+            radioButton1.Location = new Point(19, 37);
+            radioButton1.Name = "radioButton1";
+            radioButton1.Size = new Size(56, 24);
+            radioButton1.TabIndex = 0;
+            radioButton1.TabStop = true;
+            radioButton1.Text = "Red";
+            radioButton1.UseVisualStyleBackColor = true;
+            // 
+            // radioButton2
+            // 
+            radioButton2.AutoSize = true;
+            radioButton2.ForeColor = Color.Lime;
+            radioButton2.Location = new Point(19, 67);
+            radioButton2.Name = "radioButton2";
+            radioButton2.Size = new Size(69, 24);
+            radioButton2.TabIndex = 1;
+            radioButton2.Text = "Green";
+            radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton3
+            // 
+            radioButton3.AutoSize = true;
+            radioButton3.ForeColor = Color.Blue;
+            radioButton3.Location = new Point(19, 97);
+            radioButton3.Name = "radioButton3";
+            radioButton3.Size = new Size(59, 24);
+            radioButton3.TabIndex = 2;
+            radioButton3.Text = "Blue";
+            radioButton3.UseVisualStyleBackColor = true;
+            // 
+            // radioButton4
+            // 
+            radioButton4.AutoSize = true;
+            radioButton4.Location = new Point(19, 127);
+            radioButton4.Name = "radioButton4";
+            radioButton4.Size = new Size(65, 24);
+            radioButton4.TabIndex = 3;
+            radioButton4.Text = "Black";
+            radioButton4.UseVisualStyleBackColor = true;
+            // 
+            // chkVisible
+            // 
+            chkVisible.AutoSize = true;
+            chkVisible.Checked = true;
+            chkVisible.CheckState = CheckState.Checked;
+            chkVisible.Location = new Point(279, 261);
+            chkVisible.Name = "chkVisible";
+            chkVisible.Size = new Size(137, 24);
+            chkVisible.TabIndex = 2;
+            chkVisible.Text = "Message Visible";
+            chkVisible.UseVisualStyleBackColor = true;
+            // 
+            // groupBox3
+            // 
+            groupBox3.Controls.Add(btnExit);
+            groupBox3.Controls.Add(btnClear);
+            groupBox3.Controls.Add(btnDisplay);
+            groupBox3.Location = new Point(528, 261);
+            groupBox3.Name = "groupBox3";
+            groupBox3.Size = new Size(112, 151);
+            groupBox3.TabIndex = 3;
+            groupBox3.TabStop = false;
+            groupBox3.Text = "Action";
+            // 
+            // btnDisplay
+            // 
+            btnDisplay.Location = new Point(6, 22);
+            btnDisplay.Name = "btnDisplay";
+            btnDisplay.Size = new Size(100, 30);
+            btnDisplay.TabIndex = 0;
+            btnDisplay.Text = "Display";
+            btnDisplay.UseVisualStyleBackColor = true;
+            btnDisplay.Click += btnDisplay_Click;
+            // 
+            // btnClear
+            // 
+            btnClear.Location = new Point(6, 58);
+            btnClear.Name = "btnClear";
+            btnClear.Size = new Size(100, 30);
+            btnClear.TabIndex = 1;
+            btnClear.Text = "Clear";
+            btnClear.UseVisualStyleBackColor = true;
+            btnClear.Click += btnClear_Click;
+            // 
+            // btnExit
+            // 
+            btnExit.Location = new Point(6, 94);
+            btnExit.Name = "btnExit";
+            btnExit.Size = new Size(100, 30);
+            btnExit.TabIndex = 2;
+            btnExit.Text = "Exit";
+            btnExit.UseVisualStyleBackColor = true;
+            btnExit.Click += btnExit_Click;
+            // 
+            // picBig
+            // 
+            picBig.Location = new Point(279, 295);
+            picBig.Name = "picBig";
+            picBig.Size = new Size(200, 120);
+            picBig.SizeMode = PictureBoxSizeMode.StretchImage;
+            picBig.TabIndex = 4;
+            picBig.TabStop = false;
+            picBig.Visible = true;
+            picBig.Click += picBig_Click;
+            toolTip1.SetToolTip(picBig, "Click Me");
+            // 
+            // picSmall
+            // 
+            picSmall.Location = picBig.Location;
+            picSmall.Name = "picSmall";
+            picSmall.Size = picBig.Size;
+            picSmall.SizeMode = PictureBoxSizeMode.StretchImage;
+            picSmall.TabIndex = 5;
+            picSmall.TabStop = false;
+            picSmall.Visible = false;
+            picSmall.Click += picSmall_Click;
+            toolTip1.SetToolTip(picSmall, "Click Me");
+            // 
+            // lblMessage
+            // 
+            lblMessage.AutoSize = false;
+            lblMessage.BorderStyle = BorderStyle.Fixed3D;
+            lblMessage.BackColor = Color.LightPink;
+            lblMessage.Location = new Point(72, 420);
+            lblMessage.Name = "lblMessage";
+            lblMessage.Size = new Size(613, 25);
+            lblMessage.TabIndex = 6;
+            lblMessage.Text = string.Empty;
+            lblMessage.TextAlign = ContentAlignment.MiddleLeft;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 480);
+            Controls.Add(lblMessage);
+            Controls.Add(picSmall);
+            Controls.Add(picBig);
+            Controls.Add(groupBox3);
+            Controls.Add(chkVisible);
+            Controls.Add(groupBox2);
+            Controls.Add(groupBox1);
+            Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Message Formater";
+            AcceptButton = btnDisplay;
+            CancelButton = btnExit;
+            this.Load += Form1_Load;
+            this.FormClosing += Form1_FormClosing;
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
+            groupBox2.ResumeLayout(false);
+            groupBox2.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+        private GroupBox groupBox1;
+        private Label label1;
+        private TextBox txtName;
+        private Label label2;
+        private TextBox txtMessage;
+        private GroupBox groupBox2;
+        private RadioButton radioButton1;
+        private RadioButton radioButton2;
+        private RadioButton radioButton3;
+        private RadioButton radioButton4;
+        private CheckBox chkVisible;
+        private GroupBox groupBox3;
+        private Button btnDisplay;
+        private Button btnClear;
+        private Button btnExit;
+        private PictureBox picBig;
+        private PictureBox picSmall;
+        private Label lblMessage;
+        private ToolTip toolTip1;
+        private TextBox txtMessage;
+        private Label label2;
+        private TextBox txtName;
+        private Label label1;
+        private GroupBox groupBox2;
+        private RadioButton radioButton4;
+        private RadioButton radioButton3;
+        private RadioButton radioButton2;
+        private RadioButton radioButton1;
+        private CheckBox chkVisible;
+        private GroupBox groupBox3;
+    }
+}
